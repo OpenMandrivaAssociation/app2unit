@@ -1,7 +1,7 @@
 %global debug_package %{nil}
 
 Name:		app2unit
-Version:	1.1.2
+Version:	1.4.2
 Release:	1
 Source0:	https://github.com/Vladimir-csp/app2unit/archive/refs/tags/v%{version}.tar.gz
 Summary:	Utility to launch commands as systemd user units
